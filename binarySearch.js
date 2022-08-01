@@ -1,4 +1,4 @@
-
+// a time complexity of O(log n)
 
 const binarySearch = (list, item) => {
     let low = 0
